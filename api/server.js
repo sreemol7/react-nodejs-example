@@ -7,19 +7,19 @@ const app = express(),
 // place holder for the data
 const users = [
   {
-    firstName: "first1",
-    lastName: "last1",
-    email: "abc@gmail.com"
+    firstName: "Sree",
+    lastName: "Devi",
+    email: "sree@gmail.com"
   },
   {
-    firstName: "first2",
-    lastName: "last2",
-    email: "abc@gmail.com"
+    firstName: "Raji",
+    lastName: "Kamal",
+    email: "raj@gmail.com"
   },
   {
-    firstName: "first3",
-    lastName: "last3",
-    email: "abc@gmail.com"
+    firstName: "Sneha",
+    lastName: "Aggarwal",
+    email: "sneha@gmail.com"
   }
 ];
 
